@@ -8,10 +8,10 @@ Text Response ->
 Text-to-Speech
 =========================================
 Function	-> Library  ||
-Speech Input -> SpeechRecognition / Vosk
-TTS  -> pyttsx3
-NLP  -> spaCy / sklearn
-GUI  ->  PyQt5
-Database -> sqlite3
-APIs  ->  requests
-Automation -> os / subprocess
+1.) Speech Input -> SpeechRecognition / Vosk
+2.) TTS  -> pyttsx3
+3.) NLP  -> spaCy / sklearn
+4.) GUI  ->  PyQt5
+5.) Database -> sqlite3
+6.) APIs  ->  requests
+7.) Automation -> os / subprocess
